@@ -13,7 +13,7 @@ This is the first comment
 This is the second comment
 This is the third comment
 '
-
+: '
 echo "Enter your name:"  
 read $name  
 echo -e "\nThe current user name is $name"  
@@ -32,5 +32,7 @@ name="You are welcome at javatpoint"
 
 echo "$name"
 echo '$name'
+.
 
+echo "Hi this is demo script"
 
