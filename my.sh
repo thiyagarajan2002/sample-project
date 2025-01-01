@@ -1,6 +1,4 @@
-#! /bin/bash  
-  
-#This is a single-line comment in Bash Script.
-
-echo "Hi this is demo script"
-
+a=10
+b=20
+c=$(a+b)
+echo "sum of $a and $b is $c"
